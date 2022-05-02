@@ -1,0 +1,5 @@
+export const SORT_DATA = "SORT_DATA";
+export const FILTER_DATA = "FILTER_DATA";
+export const GET_DATA_SUCCESS = "GET_DATA_SUCCESS";
+export const GET_DATA_REQUEST = "GET_DATA_REQUEST";
+export const GET_DATA_FAILURE = "GET_DATA_FAILURE";
